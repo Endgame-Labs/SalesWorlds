@@ -14,4 +14,5 @@ expected and what the data shows. Corrections ship as a new release; a published
 
 ## License
 
-The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The full license text is in
+[LICENSE](LICENSE), and a copy ships with every release of the data.
